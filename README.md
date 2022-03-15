@@ -1,6 +1,6 @@
 # Research-Projects
 
-These are random (non-publicized) thoughts that I have put together. Probably all of them will be enjoyable yet an obsessive thought spiral I encounter. 
+These are random (non-published) thoughts that I have put together. Probably all of them will be enjoyable yet an obsessive thought spiral I encounter. 
 
 I hope you enjoy my food for thought! 
 
