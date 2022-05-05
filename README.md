@@ -3,8 +3,8 @@
 These are random (non-published) thoughts that I have put together. Probably all of them will be enjoyable yet an obsessive thought spiral I encounter. 
 
 I hope you enjoy my food for thought!
-4/16 update: I am going to start diving deeper into some of these topics.
+5/5/22 update: I am diving deeper into some of these topics.
 
-I'm working on learning how to organize and categorize these files, so I'm open to comments here. I'm learning through Udemy at the moment.
+I'm working on learning how to organize and categorize these files, I do theis to keep the bytes warm! :*
 
 Email me with anything: Ethannorton12@gmail.com.
