@@ -5,6 +5,6 @@ These are random (non-published) thoughts that I have put together. Probably all
 I hope you enjoy my food for thought!
 5/5/22 update: I am diving deeper into some of these topics.
 
-I'm working on learning how to organize and categorize these files, I do theis to keep the bytes warm! :*
+I'm working on learning how to organize and categorize these files, I do this to keep the bytes warm! :*
 
 Email me with anything: Ethannorton12@gmail.com.
