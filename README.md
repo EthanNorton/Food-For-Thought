@@ -1,10 +1,3 @@
-# Research-Projects
+I think that the most beautiful and impactful moments in our life are spontaneous. While I am a habit driven individual, I still like to think I follow my feelings throughout the day.
 
-These are random (non-published) thoughts that I have put together. Probably all of them will be enjoyable yet an obsessive thought spiral I encounter. 
-
-I hope you enjoy my food for thought!
-5/5/22 update: I am diving deeper into some of these topics.
-
-I'm working on learning how to organize and categorize these files, I do this to keep the bytes warm! :* ... and because the disorganization severely bothers me.
-
-Email me with anything: Ethannorton12@gmail.com.
+Here are some moments with others that have had a positive impact on me.
