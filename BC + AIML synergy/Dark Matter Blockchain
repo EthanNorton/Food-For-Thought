@@ -8,9 +8,14 @@ Technical concepts to work through:
 The quantum mechanics and infratructure:
 {https://www.edx.org/course/quantum-mechanics-of-molecular-structures}
 
-This would be apart of Venus' job to apply this to bridge the gaps for different apps, and to clean up on the loose bits.
-1. Can look at chemical compounds and compare molecular chain growth to blockchain growth. 
+This would be apart of Venus' job to:
+1. Apply this to bridge the gaps for different apps
+2. Clean up on the loose bits or dying apps, try to predict stop loss and if willing, liquidify bits.
+3. Continuously check that the apps are performing the optimal algorithm given their situation, as well as environmental situation.
+4. Can look at chemical compounds and compare molecular chain growth to blockchain growth. 
  a. Just as a chemical compund grows or is "volatile", a blockchain will grow in a similar way. Therefore, there can be new blockchain and algorithm approaches that model this.
+
+They can work very closely with Fantom for optimization techniques.
 
 Is there a way to connect different algorithms within a single blockchain in order to grow more efficiently? I.E. based on economic scenario, can a blockchain pivot its algorithm?
 For example, ideally ReLU function. However, the blockchain could transform into a conjugation during a stagflation to save computational power within the blockchain.
