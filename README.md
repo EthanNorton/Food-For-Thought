@@ -7,4 +7,4 @@ I hope you enjoy my food for thought!
 
 I'm working on learning how to organize and categorize these files, I do this to keep the bytes warm! :* ... and because the disorganization severely bothers me.
 
-Email me with anything: Ethannorton12@gmail.com.
+Email me with anything: Email: EthanRNorton@protonmail.com
