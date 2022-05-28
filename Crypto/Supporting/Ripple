@@ -27,6 +27,8 @@ For flowing between borders:
   reduce carbon pollution, and save all parties money.
     a. Take the inverse of the greedy algorithm or perhaps look into the traveling salesman algoritm and apply that to lists of NFTS and cryptos in order to reduce 
     energy inefficiencies. 
+      b. Combined the traveling salesman and the knapsack but think of the salesman bag as energy. "Given X% of energy for a max transaction size (the bag), how can 
+      we complete this transaction must efficiently for any given coin, despite which chain/location in universe?"
   
   Ripple job:
   
