@@ -23,7 +23,10 @@ For flowing between borders:
   1. Get access to interoperable data, by plugging in data from various cloud resoures. {preferably avaialble in a sky computing app such as Binance that oversees all}.
   2. Merge the data sets (this will take the work of a few skilled developers).
   3. Find the optimal communication path that will reduce computational resources and transitional fees between the two users. Think of it as applying an algorithm that
-  optimizes the speed and KNN of the different nodes. By finding the KNN, this will reduce computational inefficiences across 
+  optimizes the speed and KNN of the different nodes. By finding the KNN, this will reduce computational inefficiences across transactional fees, which will also
+  reduce carbon pollution, and save all parties money.
+    a. Take the inverse of the greedy algorithm or perhaps look into the traveling salesman algoritm and apply that to lists of NFTS and cryptos in order to reduce 
+    energy inefficiencies. 
   
   Ripple job:
   
