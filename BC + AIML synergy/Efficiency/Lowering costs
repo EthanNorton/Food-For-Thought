@@ -2,3 +2,9 @@ How to reduce fees cross chain?
 
 Scenario: Friend has Ethereum, you have BNB. To transfer the money from Eth to BNB has a high fee. 
 Is it possible to cluster these chains closer so that the transaction is lower in fees?
+Here, with BNB as the central node.
+{https://learning.edx.org/course/course-v1:BerkeleyX+CS198.2x+3T2019/block-v1:BerkeleyX+CS198.2x+3T2019+type@sequential+block@fffa3248793645e28bb33886b1269db0/block-v1:BerkeleyX+CS198.2x+3T2019+type@vertical+block@2b7d060534e745a2a028461d6fba2c36}
+This is ideal with respect to:
+1. Lower costs
+2. a connected node base
+3. able to reach a universal consensus
